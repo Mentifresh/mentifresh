@@ -62,7 +62,7 @@ let aboutMe = [
 ![Anthropic](https://img.shields.io/badge/-Anthropic-CD9D7B?logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
 
-> *Always learning → currently geeking out over **SwiftData**, **Apple Intelligence**, and **Agentic Engineering**.*
+> *Currently geeking out over **Agentic Engineering**.*
 
 ---
 
