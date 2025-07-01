@@ -60,7 +60,7 @@ let aboutMe = [
 ## 🌍 Say ¡hola! / hallo / 👋
 
 - **Website**  [My website](https://danielkilders.com)
-- **LinkedIn**   [linkedin.com/in/danielkildersdiaz](https://www.linkedin.com/in/danielkildersdiaz/)
+- **LinkedIn** [linkedin.com/in/danielkildersdiaz](https://www.linkedin.com/in/danielkildersdiaz/)
 
 I’m always up for chatting about iOS, AI-powered workflows, indie hacking wins & fails, or why Charmander is the true Gen 1 MVP.
 
