@@ -67,7 +67,6 @@ I’m always up for chatting about iOS, AI-powered workflows, indie hacking wins
 ---
 
 <details>
-<details>
 <summary>🤓 Fun facts (click me)</summary>
 
 💪 I made a full comeback at the gym after a hernia, core training is now my specialty 
