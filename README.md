@@ -69,9 +69,9 @@ I’m always up for chatting about iOS, AI-powered workflows, indie hacking wins
 <details>
 <summary>🤓 Fun facts (click me)</summary>
 
-💪 I made a full comeback at the gym after a hernia, core training is now my specialty
-🚴 Biking is my cardio of choice, bonus if there’s a good podcast in my ears
-☕ Coffee flows through me. I brew with a V60 but flirt with flat whites
+💪 I made a full comeback at the gym after a hernia, core training is now my specialty    
+🚴 Biking is my cardio of choice, bonus if there’s a good podcast in my ears    
+☕ Coffee flows through me. I brew with a V60 but flirt with flat whites    
 📚 I’m always halfway through a fantasy novel and a business book at the same time    
 🧠 I once debugged an iOS crash in my sleep and woke up to test the fix   
 💡 My bookmarks folder is 90% obscure repos I swear I’ll use someday  
