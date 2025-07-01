@@ -68,7 +68,7 @@ I’m always up for chatting about iOS, AI-powered workflows, indie hacking wins
 
 <details>
 <summary>🤓 Fun facts (click me)</summary>
-
+    
 💪 I made a full comeback at the gym after a hernia, core training is now my specialty    
 🚴 Biking is my cardio of choice, bonus if there’s a good podcast in my ears    
 ☕ Coffee flows through me. I brew with a V60 but flirt with flat whites    
