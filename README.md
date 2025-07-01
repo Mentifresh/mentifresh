@@ -1,9 +1,5 @@
 <!-- Profile README – drop straight into your `README.md` -->
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Daniel Kilders avatar" width="150" height="150" style="border-radius:50%">
-</p>
-
 <h1 align="center">Hey there, I’m Daniel 👋</h1>
 
 <p align="center">
@@ -58,18 +54,6 @@ let aboutMe = [
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
 
 > *Always learning → currently geeking out over **SwiftData**, **Apple Intelligence**, and **Agentic Engineering**.*
-
----
-
-## 📈 GitHub metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mentifresh&show_icons=true&hide_rank=true&hide_border=true&theme=tokyonight" alt="Daniel's GitHub stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mentifresh&hide_border=true&theme=tokyonight" alt="GitHub Streak">
-  <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mentifresh.readme" alt="Visitor Count">
-</p>
 
 ---
 
