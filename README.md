@@ -14,9 +14,7 @@
 let aboutMe = [
   "🏠  Berlin-based (originally from the Canary Islands 🌴)",
   "📱  8+ years crafting native iOS apps (Swift, SwiftUI, UIKit)",
-  "🤖  Agentic engineering is one of my focuses now — tab tab tab",
-  "🔐  Dabbling in offensive security",
-  "🎯  Always building, testing, and learning — sometimes all at once"
+  "🤖  Agentic engineering is one of my focuses now — tab tab tab"
 ]
 ```
 
@@ -71,24 +69,5 @@ let aboutMe = [
 - **Website**  [My website](https://danielkilders.com)
 - **LinkedIn**  [linkedin.com/in/danielkildersdiaz](https://www.linkedin.com/in/danielkildersdiaz/)
 
-I’m always up for chatting about iOS, AI-powered workflows, indie hacking wins & fails, or why Charmander is the true Gen 1 MVP.
-
----
-
-<details>
-<summary>🤓 Fun facts (click me)</summary>
-    
-💪 I made a full comeback at the gym after a hernia, core training is now my specialty    
-🚴 Biking is my cardio of choice, bonus if there’s a good podcast in my ears    
-☕ Coffee flows through me. I brew with a V60 but flirt with flat whites    
-📚 I’m always halfway through a fantasy novel and a business book at the same time    
-🧠 I once debugged an iOS crash in my sleep and woke up to test the fix   
-💡 My bookmarks folder is 90% obscure repos I swear I’ll use someday  
-🕹 I’ve caught every single Pokémon in Pokémon Yellow because of course I did
-
-</details>
-
----
-
-> “Build the thing, ship the thing, break the thing, learn the thing, repeat.”
+I’m always up for a nice chat.
 
