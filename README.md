@@ -3,7 +3,7 @@
 <h1 align="center">Hey there, I’m Daniel 👋</h1>
 
 <p align="center">
-  Senior iOS Engineer • Fullstack Indie Hacker • <em>Swift(ly)</em> shipping privacy-first products
+  Senior iOS Engineer • Part-time Indie Hacker
 </p>
 
 ---
@@ -14,7 +14,7 @@
 let aboutMe = [
   "🏠  Berlin-based (originally from the Canary Islands 🌴)",
   "📱  8+ years crafting native iOS apps (Swift, SwiftUI, UIKit)",
-  "🤖  Agentic engineering is one of my focuses now — tab tab tab"
+  "🤖  Agentic engineering is one of my focuses now"
 ]
 ```
 
